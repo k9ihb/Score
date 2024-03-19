@@ -1,4 +1,4 @@
-#スコア
-#Score
-##楽譜
-##*Musical score*##
+#スコア  
+#Score  
+##楽譜  
+##*Musical score*##  
